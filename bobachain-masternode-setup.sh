@@ -355,5 +355,3 @@ Enjoy your Bobachaincore Masternode and thanks for using this setup script!
 sleep 30
 # Run bobachaincoremon.sh
 bobachaincoremon.sh
-
-#EOF
